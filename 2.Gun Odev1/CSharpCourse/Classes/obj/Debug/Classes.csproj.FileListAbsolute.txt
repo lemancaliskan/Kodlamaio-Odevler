@@ -1,0 +1,7 @@
+C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\Classes\bin\Debug\Classes.exe.config
+C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\Classes\bin\Debug\Classes.exe
+C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\Classes\bin\Debug\Classes.pdb
+C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\Classes\obj\Debug\Classes.exe
+C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\Classes\obj\Debug\Classes.pdb

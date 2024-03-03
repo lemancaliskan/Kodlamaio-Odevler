@@ -1,0 +1,7 @@
+C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\Strings\bin\Debug\Strings.exe.config
+C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\Strings\bin\Debug\Strings.exe
+C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\Strings\bin\Debug\Strings.pdb
+C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
+C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\Strings\obj\Debug\Strings.exe
+C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\Strings\obj\Debug\Strings.pdb

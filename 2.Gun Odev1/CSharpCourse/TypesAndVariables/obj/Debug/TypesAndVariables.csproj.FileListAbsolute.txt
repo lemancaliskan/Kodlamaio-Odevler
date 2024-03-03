@@ -1,0 +1,7 @@
+C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.csproj.AssemblyReference.cache
+C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.exe.config
+C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.exe
+C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.pdb
+C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.exe
+C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.pdb
