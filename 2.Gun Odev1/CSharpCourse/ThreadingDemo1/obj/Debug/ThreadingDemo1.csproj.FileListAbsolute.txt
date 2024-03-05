@@ -1,0 +1,10 @@
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\ThreadingDemo1\obj\Debug\ThreadingDemo1.csproj.AssemblyReference.cache
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\ThreadingDemo1\obj\Debug\ThreadingDemo1.Form1.resources
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\ThreadingDemo1\obj\Debug\ThreadingDemo1.Properties.Resources.resources
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\ThreadingDemo1\obj\Debug\ThreadingDemo1.csproj.GenerateResource.cache
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\ThreadingDemo1\obj\Debug\ThreadingDemo1.csproj.CoreCompileInputs.cache
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\ThreadingDemo1\bin\Debug\ThreadingDemo1.exe.config
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\ThreadingDemo1\bin\Debug\ThreadingDemo1.exe
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\ThreadingDemo1\bin\Debug\ThreadingDemo1.pdb
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\ThreadingDemo1\obj\Debug\ThreadingDemo1.exe
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\ThreadingDemo1\obj\Debug\ThreadingDemo1.pdb
