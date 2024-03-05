@@ -1,0 +1,15 @@
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.exe
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.deps.json
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.runtimeconfig.json
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.dll
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.pdb
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.AssemblyInfo.cs
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.sourcelink.json
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.dll
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\ReferenceTypes\obj\Debug\net8.0\refint\ReferenceTypes.dll
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.pdb
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.genruntimeconfig.cache
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\ReferenceTypes\obj\Debug\net8.0\ref\ReferenceTypes.dll

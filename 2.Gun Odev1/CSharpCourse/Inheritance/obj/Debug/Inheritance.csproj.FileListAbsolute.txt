@@ -1,7 +1,0 @@
-C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe.config
-C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe
-C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\Inheritance\bin\Debug\Inheritance.pdb
-C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
-C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
-C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\Inheritance\obj\Debug\Inheritance.exe
-C:\Users\leman\Desktop\Kodlama.io Ödevler\2.Gün Ödev1\CSharpCourse\Inheritance\obj\Debug\Inheritance.pdb

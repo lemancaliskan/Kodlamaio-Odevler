@@ -1,0 +1,7 @@
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\LinqProject\bin\Debug\LinqProject.exe.config
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\LinqProject\bin\Debug\LinqProject.exe
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\LinqProject\bin\Debug\LinqProject.pdb
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\LinqProject\obj\Debug\LinqProject.csproj.AssemblyReference.cache
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\LinqProject\obj\Debug\LinqProject.csproj.CoreCompileInputs.cache
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\LinqProject\obj\Debug\LinqProject.exe
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev1\CSharpCourse\LinqProject\obj\Debug\LinqProject.pdb
