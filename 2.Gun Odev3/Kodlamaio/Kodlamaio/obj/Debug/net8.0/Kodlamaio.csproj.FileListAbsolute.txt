@@ -1,0 +1,15 @@
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev3\Kodlamaio\Kodlamaio\obj\Debug\net8.0\Kodlamaio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev3\Kodlamaio\Kodlamaio\obj\Debug\net8.0\Kodlamaio.AssemblyInfoInputs.cache
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev3\Kodlamaio\Kodlamaio\obj\Debug\net8.0\Kodlamaio.AssemblyInfo.cs
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev3\Kodlamaio\Kodlamaio\obj\Debug\net8.0\Kodlamaio.csproj.CoreCompileInputs.cache
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev3\Kodlamaio\Kodlamaio\obj\Debug\net8.0\Kodlamaio.sourcelink.json
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev3\Kodlamaio\Kodlamaio\bin\Debug\net8.0\Kodlamaio.exe
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev3\Kodlamaio\Kodlamaio\bin\Debug\net8.0\Kodlamaio.deps.json
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev3\Kodlamaio\Kodlamaio\bin\Debug\net8.0\Kodlamaio.runtimeconfig.json
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev3\Kodlamaio\Kodlamaio\bin\Debug\net8.0\Kodlamaio.dll
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev3\Kodlamaio\Kodlamaio\bin\Debug\net8.0\Kodlamaio.pdb
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev3\Kodlamaio\Kodlamaio\obj\Debug\net8.0\Kodlamaio.dll
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev3\Kodlamaio\Kodlamaio\obj\Debug\net8.0\refint\Kodlamaio.dll
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev3\Kodlamaio\Kodlamaio\obj\Debug\net8.0\Kodlamaio.pdb
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev3\Kodlamaio\Kodlamaio\obj\Debug\net8.0\Kodlamaio.genruntimeconfig.cache
+C:\Users\leman\Desktop\Kodlamaio-Odevler\2.Gun Odev3\Kodlamaio\Kodlamaio\obj\Debug\net8.0\ref\Kodlamaio.dll

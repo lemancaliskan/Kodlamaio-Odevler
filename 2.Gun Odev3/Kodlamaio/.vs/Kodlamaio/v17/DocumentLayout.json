@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03901792-6D1A-4576-85CA-80B4D99686A9}|Kodlamaio\\Kodlamaio.csproj|C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\kodlamaio\\dataaccess\\concretes\\instructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03901792-6D1A-4576-85CA-80B4D99686A9}|Kodlamaio\\Kodlamaio.csproj|solutionrelative:kodlamaio\\dataaccess\\concretes\\instructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03901792-6D1A-4576-85CA-80B4D99686A9}|Kodlamaio\\Kodlamaio.csproj|c:\\users\\leman\\desktop\\kodlamaio-odevler\\2.gun odev3\\kodlamaio\\kodlamaio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03901792-6D1A-4576-85CA-80B4D99686A9}|Kodlamaio\\Kodlamaio.csproj|solutionrelative:kodlamaio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03901792-6D1A-4576-85CA-80B4D99686A9}|Kodlamaio\\Kodlamaio.csproj|C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\kodlamaio\\dataaccess\\concretes\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03901792-6D1A-4576-85CA-80B4D99686A9}|Kodlamaio\\Kodlamaio.csproj|solutionrelative:kodlamaio\\dataaccess\\concretes\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03901792-6D1A-4576-85CA-80B4D99686A9}|Kodlamaio\\Kodlamaio.csproj|C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\kodlamaio\\entitites\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03901792-6D1A-4576-85CA-80B4D99686A9}|Kodlamaio\\Kodlamaio.csproj|solutionrelative:kodlamaio\\entitites\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03901792-6D1A-4576-85CA-80B4D99686A9}|Kodlamaio\\Kodlamaio.csproj|C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\kodlamaio\\entitites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03901792-6D1A-4576-85CA-80B4D99686A9}|Kodlamaio\\Kodlamaio.csproj|solutionrelative:kodlamaio\\entitites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03901792-6D1A-4576-85CA-80B4D99686A9}|Kodlamaio\\Kodlamaio.csproj|C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\kodlamaio\\dataaccess\\abstracts\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03901792-6D1A-4576-85CA-80B4D99686A9}|Kodlamaio\\Kodlamaio.csproj|solutionrelative:kodlamaio\\dataaccess\\abstracts\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03901792-6D1A-4576-85CA-80B4D99686A9}|Kodlamaio\\Kodlamaio.csproj|C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\kodlamaio\\business\\instructormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03901792-6D1A-4576-85CA-80B4D99686A9}|Kodlamaio\\Kodlamaio.csproj|solutionrelative:kodlamaio\\business\\instructormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03901792-6D1A-4576-85CA-80B4D99686A9}|Kodlamaio\\Kodlamaio.csproj|C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\kodlamaio\\business\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03901792-6D1A-4576-85CA-80B4D99686A9}|Kodlamaio\\Kodlamaio.csproj|solutionrelative:kodlamaio\\business\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03901792-6D1A-4576-85CA-80B4D99686A9}|Kodlamaio\\Kodlamaio.csproj|C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\kodlamaio\\business\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03901792-6D1A-4576-85CA-80B4D99686A9}|Kodlamaio\\Kodlamaio.csproj|solutionrelative:kodlamaio\\business\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03901792-6D1A-4576-85CA-80B4D99686A9}|Kodlamaio\\Kodlamaio.csproj|C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\kodlamaio\\dataaccess\\concretes\\coursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03901792-6D1A-4576-85CA-80B4D99686A9}|Kodlamaio\\Kodlamaio.csproj|solutionrelative:kodlamaio\\dataaccess\\concretes\\coursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03901792-6D1A-4576-85CA-80B4D99686A9}|Kodlamaio\\Kodlamaio.csproj|C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\kodlamaio\\dataaccess\\abstracts\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03901792-6D1A-4576-85CA-80B4D99686A9}|Kodlamaio\\Kodlamaio.csproj|solutionrelative:kodlamaio\\dataaccess\\abstracts\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03901792-6D1A-4576-85CA-80B4D99686A9}|Kodlamaio\\Kodlamaio.csproj|C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\kodlamaio\\dataaccess\\abstracts\\iinstructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03901792-6D1A-4576-85CA-80B4D99686A9}|Kodlamaio\\Kodlamaio.csproj|solutionrelative:kodlamaio\\dataaccess\\abstracts\\iinstructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03901792-6D1A-4576-85CA-80B4D99686A9}|Kodlamaio\\Kodlamaio.csproj|C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\kodlamaio\\entitites\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03901792-6D1A-4576-85CA-80B4D99686A9}|Kodlamaio\\Kodlamaio.csproj|solutionrelative:kodlamaio\\entitites\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\Kodlamaio\\Business\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "Kodlamaio\\Business\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\Kodlamaio\\Business\\CategoryManager.cs",
+              "RelativeToolTip": "Kodlamaio\\Business\\CategoryManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:06:07.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InstructorManager.cs",
+              "DocumentMoniker": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\Kodlamaio\\Business\\InstructorManager.cs",
+              "RelativeDocumentMoniker": "Kodlamaio\\Business\\InstructorManager.cs",
+              "ToolTip": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\Kodlamaio\\Business\\InstructorManager.cs",
+              "RelativeToolTip": "Kodlamaio\\Business\\InstructorManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwB8AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:05:57.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InstructorDal.cs",
+              "DocumentMoniker": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\Kodlamaio\\DataAccess\\Concretes\\InstructorDal.cs",
+              "RelativeDocumentMoniker": "Kodlamaio\\DataAccess\\Concretes\\InstructorDal.cs",
+              "ToolTip": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\Kodlamaio\\DataAccess\\Concretes\\InstructorDal.cs",
+              "RelativeToolTip": "Kodlamaio\\DataAccess\\Concretes\\InstructorDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:41:22.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\Kodlamaio\\DataAccess\\Concretes\\CourseDal.cs",
+              "RelativeDocumentMoniker": "Kodlamaio\\DataAccess\\Concretes\\CourseDal.cs",
+              "ToolTip": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\Kodlamaio\\DataAccess\\Concretes\\CourseDal.cs",
+              "RelativeToolTip": "Kodlamaio\\DataAccess\\Concretes\\CourseDal.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:41:06.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\Kodlamaio\\DataAccess\\Concretes\\CategoryDal.cs",
+              "RelativeDocumentMoniker": "Kodlamaio\\DataAccess\\Concretes\\CategoryDal.cs",
+              "ToolTip": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\Kodlamaio\\DataAccess\\Concretes\\CategoryDal.cs",
+              "RelativeToolTip": "Kodlamaio\\DataAccess\\Concretes\\CategoryDal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:40:55.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseManager.cs",
+              "DocumentMoniker": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\Kodlamaio\\Business\\CourseManager.cs",
+              "RelativeDocumentMoniker": "Kodlamaio\\Business\\CourseManager.cs",
+              "ToolTip": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\Kodlamaio\\Business\\CourseManager.cs",
+              "RelativeToolTip": "Kodlamaio\\Business\\CourseManager.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T11:41:30.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IInstructorDal.cs",
+              "DocumentMoniker": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\Kodlamaio\\DataAccess\\Abstracts\\IInstructorDal.cs",
+              "RelativeDocumentMoniker": "Kodlamaio\\DataAccess\\Abstracts\\IInstructorDal.cs",
+              "ToolTip": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\Kodlamaio\\DataAccess\\Abstracts\\IInstructorDal.cs",
+              "RelativeToolTip": "Kodlamaio\\DataAccess\\Abstracts\\IInstructorDal.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T11:41:23.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\Kodlamaio\\DataAccess\\Abstracts\\ICategoryDal.cs",
+              "RelativeDocumentMoniker": "Kodlamaio\\DataAccess\\Abstracts\\ICategoryDal.cs",
+              "ToolTip": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\Kodlamaio\\DataAccess\\Abstracts\\ICategoryDal.cs",
+              "RelativeToolTip": "Kodlamaio\\DataAccess\\Abstracts\\ICategoryDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T11:41:09.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\Kodlamaio\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "RelativeDocumentMoniker": "Kodlamaio\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "ToolTip": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\Kodlamaio\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "RelativeToolTip": "Kodlamaio\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T11:40:49.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\Kodlamaio\\Entitites\\Instructor.cs",
+              "RelativeDocumentMoniker": "Kodlamaio\\Entitites\\Instructor.cs",
+              "ToolTip": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\Kodlamaio\\Entitites\\Instructor.cs",
+              "RelativeToolTip": "Kodlamaio\\Entitites\\Instructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T11:40:07.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\Kodlamaio\\Entitites\\Course.cs",
+              "RelativeDocumentMoniker": "Kodlamaio\\Entitites\\Course.cs",
+              "ToolTip": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\Kodlamaio\\Entitites\\Course.cs",
+              "RelativeToolTip": "Kodlamaio\\Entitites\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T11:39:57.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\Kodlamaio\\Entitites\\Category.cs",
+              "RelativeDocumentMoniker": "Kodlamaio\\Entitites\\Category.cs",
+              "ToolTip": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\Kodlamaio\\Entitites\\Category.cs",
+              "RelativeToolTip": "Kodlamaio\\Entitites\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T11:39:48.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\Kodlamaio\\Program.cs",
+              "RelativeDocumentMoniker": "Kodlamaio\\Program.cs",
+              "ToolTip": "C:\\Users\\leman\\Desktop\\Kodlamaio-Odevler\\2.Gun Odev3\\Kodlamaio\\Kodlamaio\\Program.cs",
+              "RelativeToolTip": "Kodlamaio\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAgwBMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T11:36:16.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
